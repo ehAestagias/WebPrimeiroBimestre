@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .cabecalho {
+    width: 100%;
+    text-align: center;
+    background:#abdae2;
+  }
+  
+  h1 {
+    background:#abdae2;
+    text-align: left;
+    font-size: 30px;
+    padding-top: 15px;
+    color: rgb(168, 11, 11);
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  
+  nav {
+    background:#abdae2;
+    padding: 30px 5%;
+  }
+  nav a {
+    margin: 0 3px;
+    background:#abdae2;
+  }
+  
+  hr {
+    border-color: #fff;
+    margin: 0;
+  }
+  
+  .conteudo {
+    width: 100%;
+    background-color: #fff;
+    padding: 30px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .conteudo div {
+    width: 90%;
+  }
+  
+  .subtitulo {
+    margin-top: 0;
+  }
+  
+  .rodape {
+    background:#abdae2;
+    padding: 30px 0;
+    padding-left: 5%;
+  }
+  .rodape h3,
+  .rodape p {
+    margin-top: 0;
+  }
+  
+  #logo{
+	width: 170px;     
+
+} 
+
+#mapaCovid{
+    width: 700px;
+}
+
+#testes{
+    width: 500px;
+}
